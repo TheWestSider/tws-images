@@ -60,3 +60,22 @@ License: not stated. Juilliard promotional image, copied from juilliard.edu; hos
 | ralph_kirshbaum_formal_1270x715.jpg | https://www.juilliard.edu/sites/default/files/styles/hero_event_/public/events/Ralph_Kirshbaum_Formal_1270x715.png?itok=K4s8fgo2 | https://www.juilliard.edu/event/190786/cello-master-class-ralph-kirshbaum |
 | rossini_vocal_recital_rpapo_20251005_060_1.jpg | https://www.juilliard.edu/sites/default/files/styles/hero_event_/public/events/Rossini_Vocal_Recital_RPapo_20251005_060_1.jpg?itok=-CgXAbcR | https://www.juilliard.edu/event/186751/liederabend-collaboration-opera-rara |
 | viola_master_class_garth_knox.jpg | https://www.juilliard.edu/sites/default/files/styles/hero_event_/public/events/Viola_Master_Class_Garth_Knox.png?itok=LbQXIOmN | https://www.juilliard.edu/event/190791/viola-master-class-garth-knox |
+
+## Added Nov 12, 2026 (Dec 5 to Jan 31 pull)
+
+Same method and license note as above (originals read from each event page's hero image, no itok token; JPG copies). `default_images/event-default.jpg` is Juilliard's site-wide placeholder, not used.
+
+| File | Original image | Juilliard page(s) |
+|---|---|---|
+| 02042023_pc_0004_1270x715.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/02042023_PC_0004_1270x715.png | https://www.juilliard.edu/event/187006/pre-college-youth-chorus |
+| 12172022_pc_orchestra_0030_1270x715.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/12172022_PC_Orchestra_0030_1270x715.png | https://www.juilliard.edu/event/186991/pre-college-string-orchestra-conducted-nico-olarte-hayes |
+| 2026-03-22_abq_1270x715.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/2026-03-22_ABQ_1270x715.png | https://www.juilliard.edu/event/187171/daniel-saidenberg-faculty-recital-series-american-brass-quintet |
+| ensemble-connect_1270x715.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/Ensemble-Connect_1270x715.png | https://www.juilliard.edu/event/187191/ensemble-connect |
+| faculty_recital_series.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/faculty_recital_series.png | https://www.juilliard.edu/event/188691/daniel-saidenberg-faculty-recital-series-darrett-adkins-hsin-yun-huang-jonathan |
+| image_7475.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/image_7475.jpg | https://www.juilliard.edu/event/189031/sylvia-beach-french-horn |
+| image_7483.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/image_7483.jpg | https://www.juilliard.edu/event/189076/william-foye-clarinet |
+| image_7494.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/image_7494.jpg | https://www.juilliard.edu/event/189131/zoe-czarnecki-baroque-double-bass |
+| image_7497.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/image_7497.jpg | https://www.juilliard.edu/event/189141/matthew-schultheis-composition-lecture-performance |
+| image_7625.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/image_7625.jpg | https://www.juilliard.edu/event/189886/james-bernard-composition |
+| image_7639.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/image_7639.jpg | https://www.juilliard.edu/event/189961/luke-woodle-jazz-drums |
+| image_7701.jpg | https://www.juilliard.edu/sites/default/files/styles/wide_event_1270x715_with_focal_point/public/events/image_7701.jpg | https://www.juilliard.edu/event/190301/shunzhe-zhang-violin |
